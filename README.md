@@ -1,10 +1,10 @@
-# Prework - Recipe Roulette
+# Prework - *Recipe Roulette*
 
-Submitted by: Cai Rong Li
+Submitted by: **Cai Rong Li**
 
 Recipe Roulette is an app designed to inspire culinary creativity while promoting sustainability. Using an intelligent ingredient-based search and an interactive recipe selection system, the app empowers users to discover diverse meal options tailored to their preferences and available ingredients.
 
-Time spent: 2 hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -33,7 +33,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright 2024 Cai Rong Li
+    Copyright [2024] [Cai Rong Li]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
