@@ -4,7 +4,7 @@ Submitted by: **Cai Rong Li**
 
 Recipe Roulette is an app designed to inspire culinary creativity while promoting sustainability. Using an intelligent ingredient-based search and an interactive recipe selection system, the app empowers users to discover diverse meal options tailored to their preferences and available ingredients.
 
-Time spent: **1** hours spent in total
+Time spent: **1** hour spent in total
 
 ## Required Features
 
@@ -20,11 +20,11 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 
 Spotify:
-- Cross device syncing for seamless music playback for users
-- Offline downloads for users to listen to music without internet
+- Cross-device syncing for seamless music playback for users
+- Offline downloads for users to listen to music without the internet
 
-Googe Maps:
-- Real time traffic updates
+Google Maps:
+- Real-time traffic updates
 - Explore nearby features
 
 LinkedIn:
